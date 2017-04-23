@@ -1,0 +1,45 @@
+*{
+	font-family: sans-serif;
+}
+body{
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#happy{
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 20px
+}
+
+#happy h1{
+	font-weight: 1000;
+	line-height: .8em;
+}
+
+#happy p{
+	font-size: .8em;
+	font-weight: 400;
+	color:#333;
+}
+
+#cake{
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	font-size: .8em;
+	font-weight: 400;
+	color:#DDD;
+	text-decoration: none;
+}
+
+a:link{color:#DDD;}
+a:visited{color:#DDD;}
+a:hover{color:#AAA;}
+a:active{color:rgb(244,79,158);}
